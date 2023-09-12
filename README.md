@@ -1,6 +1,6 @@
 # WebFlay
 
-Screen scraper
+Scraper
 
 ## Setting Up the Database in Docker
 ### Prerequisites
