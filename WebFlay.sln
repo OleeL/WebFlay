@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebFlay.API.Web", "WebFlay.API.Web\WebFlay.API.Web.csproj", "{45422843-7DA8-4BCE-A110-9F0242385C02}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{62DCFE60-DB55-4917-8F87-ED38E14802BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebFlay.Lib", "WebFlay.Lib\WebFlay.Lib.csproj", "{C3406BE9-0F42-48BA-AE02-F04DC7109A01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45422843-7DA8-4BCE-A110-9F0242385C02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45422843-7DA8-4BCE-A110-9F0242385C02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45422843-7DA8-4BCE-A110-9F0242385C02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45422843-7DA8-4BCE-A110-9F0242385C02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3406BE9-0F42-48BA-AE02-F04DC7109A01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3406BE9-0F42-48BA-AE02-F04DC7109A01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3406BE9-0F42-48BA-AE02-F04DC7109A01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3406BE9-0F42-48BA-AE02-F04DC7109A01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{45422843-7DA8-4BCE-A110-9F0242385C02} = {62DCFE60-DB55-4917-8F87-ED38E14802BD}
+	EndGlobalSection
+EndGlobal
